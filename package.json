@@ -1,0 +1,41 @@
+{
+  "name": "silver-pancake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiddlest1ck/silver-pancake.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fiddlest1ck/silver-pancake/issues"
+  },
+  "homepage": "https://github.com/fiddlest1ck/silver-pancake#readme",
+  "dependencies": {
+    "@mdi/font": "^4.8.95",
+    "@vue/cli-plugin-babel": "^4.1.2",
+    "@vue/cli-plugin-eslint": "^4.1.2",
+    "@vue/cli-service": "^4.1.2",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-plugin-vue": "^6.1.2",
+    "mdi": "^2.2.43",
+    "node-sass": "^4.13.1",
+    "sass": "^1.25.0",
+    "sass-loader": "^8.0.2",
+    "vue": "^2.6.11",
+    "vue-cli-plugin-vuetify": "^2.0.3",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify": "^2.2.6",
+    "vuetify-loader": "^1.4.3",
+    "vuex": "^3.1.2"
+  }
+}
